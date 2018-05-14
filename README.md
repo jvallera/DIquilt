@@ -30,6 +30,7 @@ In [this Repository](https://github.com/jvallera/DIquilt/) you can find, share, 
 
 Thank you so much for visiting. If you have any questions please reach out. 
 
+![Quilt example](https://github.com/jvallera/DIquilt/blob/master/Images/20180507_085730.jpg "DI Quilt example 2018")
 
 
 
