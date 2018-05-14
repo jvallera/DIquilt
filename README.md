@@ -24,7 +24,9 @@ In [this Repository](https://github.com/jvallera/DIquilt/) you can find, share, 
 * [Simple Circuits](https://learn.adafruit.com/lets-put-leds-in-things/from-scratch): Simple circuits create a fun and simple way to add lights and hands-on learning.  
 * [Elevating voices](): This project provides a template that people customize and to represent their own thoughts and ideas. 
 
+## Coverage:
 
+* [Vermont Local News](http://www.mychamplainvalley.com/news/burlington-kids-day-2018-celebrating-steam/1157128133): 4 minute clip describing the project in preparation for local "Kid's Day" event.
 ---
 ## Thank you
 
